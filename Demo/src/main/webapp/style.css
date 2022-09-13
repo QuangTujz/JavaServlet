@@ -1,0 +1,10 @@
+body {
+    color: rgba(0, 0, 0, .5);
+    text-align: center;
+    top: 15%;
+    background: linear-gradient(to right, rgb(99, 48, 138), rgb(132, 18, 152));
+}
+p{
+    font-size: 25px;
+    color:black;
+}
